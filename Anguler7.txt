@@ -1,0 +1,17 @@
+node -v 
+npm -v 
+npm install -g @angular/cli 
+ng update @angular/cli
+mkdir AngularDemo 
+cd AngularDemo 
+ng new myFirstApp 
+ng serve 
+code . 
+
+-----------------------------
+npm install -g npm-check-updates
+ncu -u
+ng update @angular/cli
+npm install
+npm install -g npm-check-updates 
+ng update @angular/cli 
